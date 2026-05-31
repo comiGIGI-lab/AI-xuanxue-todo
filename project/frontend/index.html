@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN" data-node-id="d82f6a32-5c8e-11f1-a41d-3e8984a7e676">
+<head data-node-id="d82f6046-5c8e-11f1-a41d-3e8984a7e676">
+<meta charset="utf-8" data-node-id="d82f57d6-5c8e-11f1-a41d-3e8984a7e676"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport" data-node-id="d82efd72-5c8e-11f1-a41d-3e8984a7e676"/>
+<title data-node-id="d82f5222-5c8e-11f1-a41d-3e8984a7e676">玄学宜do</title>
+<link crossorigin="" href="https://fonts.loli.net" rel="preconnect" data-node-id="d82f4bec-5c8e-11f1-a41d-3e8984a7e676"/>
+<link href="https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@500;700&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet" data-node-id="d82f18ac-5c8e-11f1-a41d-3e8984a7e676"/>
+<link href="css/styles.css" rel="stylesheet" data-node-id="d82ec884-5c8e-11f1-a41d-3e8984a7e676"/>
+<link href="./manifest.webmanifest" rel="manifest" data-node-id="d82eeaf8-5c8e-11f1-a41d-3e8984a7e676"/>
+<meta content="#B13BFF" name="theme-color" data-node-id="d82ed66c-5c8e-11f1-a41d-3e8984a7e676"/>
+<meta content="yes" name="apple-mobile-web-app-capable" data-node-id="d82eebac-5c8e-11f1-a41d-3e8984a7e676"/>
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style" data-node-id="d82eec56-5c8e-11f1-a41d-3e8984a7e676"/>
+<meta content="玄学融合顾问" name="apple-mobile-web-app-title" data-node-id="d82f0650-5c8e-11f1-a41d-3e8984a7e676"/>
+<link href="./icons/icon-192x192.png" rel="apple-touch-icon" data-node-id="d82f1956-5c8e-11f1-a41d-3e8984a7e676"/>
+
+<!-- 引入对话气泡工具 -->
+<script src="https://creo4u.com/bubble-popup.min.js" data-node-id="d82ed716-5c8e-11f1-a41d-3e8984a7e676"></script>
+</head>
+<body data-node-id="d82f059c-5c8e-11f1-a41d-3e8984a7e676">
+<div class="stars" id="stars" data-node-id="d82ef552-5c8e-11f1-a41d-3e8984a7e676"></div>
+<header class="header" data-node-id="d82ef1e2-5c8e-11f1-a41d-3e8984a7e676">
+<div class="header__brand" data-node-id="d82ed7c0-5c8e-11f1-a41d-3e8984a7e676">
+<span class="header__logo" data-node-id="d82f4c96-5c8e-11f1-a41d-3e8984a7e676">✦</span>
+<span class="header__title" data-node-id="d82f06fa-5c8e-11f1-a41d-3e8984a7e676">玄学宜do</span>
+<a class="header__github" href="https://github.com/comiGIGI-lab/AI-xuanxue-todo" target="_blank" rel="noopener" title="GitHub Star" data-node-id="d82eed00-5c8e-11f1-a41d-3e8984a7e676">
+  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" data-node-id="d82f1a00-5c8e-11f1-a41d-3e8984a7e676"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.335-1.755-1.335-1.755-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12z" data-node-id="d82f610e-5c8e-11f1-a41d-3e8984a7e676"/></svg>
+</a>
+</div>
+<div class="header__subtitle" data-node-id="d82f6b04-5c8e-11f1-a41d-3e8984a7e676">星盘 · 八字 · MBTI · AI每日宜忌</div>
+<div class="header__tagline" data-node-id="d82f1f78-5c8e-11f1-a41d-3e8984a7e676">一个不需要具体出生时刻的综合占星平台与每日宜忌</div>
+<div class="header__guide" data-node-id="d82ef282-5c8e-11f1-a41d-3e8984a7e676">问问AI根据玄学今天适合吃啥玩啥干啥</div>
+</header>
+<main class="main" data-node-id="d82f2f04-5c8e-11f1-a41d-3e8984a7e676">
+<!-- 输入区域 -->
+<section class="section section--input" data-node-id="d82ed86a-5c8e-11f1-a41d-3e8984a7e676">
+<div class="section__num" data-node-id="d82edb8a-5c8e-11f1-a41d-3e8984a7e676">01</div>
+<div class="section__content" data-node-id="d82ee18e-5c8e-11f1-a41d-3e8984a7e676">
+<div class="eyebrow" data-node-id="d82f6f0a-5c8e-11f1-a41d-3e8984a7e676">输入你的出生信息</div>
+<h2 class="section__title" data-node-id="d82f1abe-5c8e-11f1-a41d-3e8984a7e676">开启你的玄学档案</h2>
+<p class="text-[13px] input-hint" data-node-id="d82f47e6-5c8e-11f1-a41d-3e8984a7e676">本站只用年月日推算，不收集时辰信息，专注于娱乐参考而非命理束缚</p>
+<form class="form" id="birth-form" data-node-id="d82ee6fc-5c8e-11f1-a41d-3e8984a7e676">
+<div class="form__group" data-node-id="d82f4084-5c8e-11f1-a41d-3e8984a7e676">
+<label class="form__label" for="birth-year" data-node-id="d82efa20-5c8e-11f1-a41d-3e8984a7e676">出生年月日（公历）</label>
+<div class="date-inputs" data-node-id="d82f66e0-5c8e-11f1-a41d-3e8984a7e676">
+<select class="form__input form__input--date" id="birth-year" required data-node-id="d82eca6e-5c8e-11f1-a41d-3e8984a7e676">
+<option value="" data-node-id="d82f52cc-5c8e-11f1-a41d-3e8984a7e676">yyyy</option>
+</select>
+<span class="date-separator" data-node-id="d82f4d5e-5c8e-11f1-a41d-3e8984a7e676">/</span>
+<select class="form__input form__input--date" id="birth-month" required data-node-id="d82f61cc-5c8e-11f1-a41d-3e8984a7e676">
+<option value="" data-node-id="d82f6280-5c8e-11f1-a41d-3e8984a7e676">mm</option>
+</select>
+<span class="date-separator" data-node-id="d82ee7a6-5c8e-11f1-a41d-3e8984a7e676">/</span>
+<select class="form__input form__input--date" id="birth-day" required data-node-id="d82ee24c-5c8e-11f1-a41d-3e8984a7e676">
+<option value="" data-node-id="d82f101e-5c8e-11f1-a41d-3e8984a7e676">dd</option>
+</select>
+</div>
+<span class="form__hint" data-node-id="d82eedaa-5c8e-11f1-a41d-3e8984a7e676">支持 1900-2026 年，自动处理闰年等边缘情况</span>
+</div>
+<button class="btn btn--primary btn--large" id="submit-btn" type="submit" data-node-id="d82f10d2-5c8e-11f1-a41d-3e8984a7e676">
+<span class="btn__icon" data-node-id="d82f416a-5c8e-11f1-a41d-3e8984a7e676">✦</span>
+<span class="btn__text" data-node-id="d82edc34-5c8e-11f1-a41d-3e8984a7e676">开始推算</span>
+</button>
+</form>
+</div>
+</section>
+<!-- 加载状态 -->
+<div class="loading hidden" id="loading" data-node-id="d82ecb40-5c8e-11f1-a41d-3e8984a7e676">
+<div class="loading__spinner" data-node-id="d82f2d9c-5c8e-11f1-a41d-3e8984a7e676"></div>
+<div class="loading__text" data-node-id="d82ee85a-5c8e-11f1-a41d-3e8984a7e676">正在推算星盘、八字、MBTI...</div>
+</div>
+<!-- 错误状态 -->
+<div class="error hidden" id="error" data-node-id="d82f6988-5c8e-11f1-a41d-3e8984a7e676">
+<div class="error__icon" data-node-id="d82efe1c-5c8e-11f1-a41d-3e8984a7e676">⚠</div>
+<div class="error__message" id="error-message" data-node-id="d82f1b68-5c8e-11f1-a41d-3e8984a7e676"></div>
+<button class="btn btn--ghost" id="retry-btn" data-node-id="d82f29aa-5c8e-11f1-a41d-3e8984a7e676">重试</button>
+</div>
+<!-- 结果区域 -->
+<div class="results hidden" id="results" data-node-id="d82efaca-5c8e-11f1-a41d-3e8984a7e676">
+<!-- 星盘结果 -->
+<section class="section section--result module-reveal collapsible-section" id="module-astrology" data-node-id="d82f5880-5c8e-11f1-a41d-3e8984a7e676">
+<div class="section__num" data-node-id="d82f0f6a-5c8e-11f1-a41d-3e8984a7e676">02</div>
+<div class="section__content" data-node-id="d82ef6ce-5c8e-11f1-a41d-3e8984a7e676">
+<div class="eyebrow" data-node-id="d82f5920-5c8e-11f1-a41d-3e8984a7e676">星盘解析</div>
+<h2 class="section__title section__title--collapsible" data-target="astrology-content" data-node-id="d82edce8-5c8e-11f1-a41d-3e8984a7e676">
+<span data-node-id="d82f079a-5c8e-11f1-a41d-3e8984a7e676">你的星盘配置</span>
+<span class="section__toggle" data-node-id="d82f2022-5c8e-11f1-a41d-3e8984a7e676">▼</span>
+</h2>
+<div class="collapsible-content" id="astrology-content" data-node-id="d82f4732-5c8e-11f1-a41d-3e8984a7e676">
+<!-- 推理过程动画 -->
+<div class="sun-reasoning hidden" id="sun-reasoning" data-node-id="d82f20cc-5c8e-11f1-a41d-3e8984a7e676">
+<div class="sun-reasoning__step" id="reasoning-step-1" data-node-id="d82f59ca-5c8e-11f1-a41d-3e8984a7e676"></div>
+<div class="sun-reasoning__step" id="reasoning-step-2" data-node-id="d82ed5c2-5c8e-11f1-a41d-3e8984a7e676"></div>
+<div class="sun-reasoning__step" id="reasoning-step-3" data-node-id="d82ef61a-5c8e-11f1-a41d-3e8984a7e676"></div>
+</div>
+<div class="card card--astrology" id="astrology-card" data-node-id="d82ee2f6-5c8e-11f1-a41d-3e8984a7e676">
+<div class="card__header" data-node-id="d82f5fa6-5c8e-11f1-a41d-3e8984a7e676">
+<span class="card__icon" data-node-id="d82f0cae-5c8e-11f1-a41d-3e8984a7e676">☉</span>
+<h3 class="card__title" data-node-id="d82efed0-5c8e-11f1-a41d-3e8984a7e676">行星落位</h3>
+</div>
+<div class="card__body" id="astrology-body" data-node-id="d82ef778-5c8e-11f1-a41d-3e8984a7e676"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- 八字结果 -->
+<section class="section section--result section--alt module-reveal collapsible-section" id="module-bazi" data-node-id="d82f6fbe-5c8e-11f1-a41d-3e8984a7e676">
+<div class="section__num" data-node-id="d82f2e50-5c8e-11f1-a41d-3e8984a7e676">03</div>
+<div class="section__content" data-node-id="d82f0d62-5c8e-11f1-a41d-3e8984a7e676">
+<div class="eyebrow" data-node-id="d82f6334-5c8e-11f1-a41d-3e8984a7e676">八字命理</div>
+<h2 class="section__title section__title--collapsible" data-target="bazi-content" data-node-id="d82f2a40-5c8e-11f1-a41d-3e8984a7e676">
+<span data-node-id="d82ee3a0-5c8e-11f1-a41d-3e8984a7e676">你的八字六字</span>
+<span class="section__toggle" data-node-id="d82ecf96-5c8e-11f1-a41d-3e8984a7e676">▼</span>
+</h2>
+<div class="collapsible-content" id="bazi-content" data-node-id="d82f5da8-5c8e-11f1-a41d-3e8984a7e676">
+<div class="card card--bazi" id="bazi-card" data-node-id="d82efb74-5c8e-11f1-a41d-3e8984a7e676">
+<div class="card__header" data-node-id="d82ed04a-5c8e-11f1-a41d-3e8984a7e676">
+<span class="card__icon" data-node-id="d82f4228-5c8e-11f1-a41d-3e8984a7e676">☯</span>
+<h3 class="card__title" data-node-id="d82f24b4-5c8e-11f1-a41d-3e8984a7e676">天干地支</h3>
+<span class="text-[11px] text-[#D1D5DB] bg-[transparent] card__badge" data-node-id="d82f138e-5c8e-11f1-a41d-3e8984a7e676">不收集时辰故不进行时柱推算</span>
+</div>
+<div class="card__body" id="bazi-body" data-node-id="d82ee44a-5c8e-11f1-a41d-3e8984a7e676"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- MBTI荣格八维概率图表 -->
+<section class="section section--result module-reveal collapsible-section" id="module-mbti" data-node-id="d82f4890-5c8e-11f1-a41d-3e8984a7e676">
+<div class="section__num" data-node-id="d82f2554-5c8e-11f1-a41d-3e8984a7e676">04</div>
+<div class="section__content" data-node-id="d82ee904-5c8e-11f1-a41d-3e8984a7e676">
+<div class="eyebrow" data-node-id="d82f5a74-5c8e-11f1-a41d-3e8984a7e676">性格推测</div>
+<h2 class="section__title section__title--collapsible" data-target="mbti-content" data-node-id="d82f2176-5c8e-11f1-a41d-3e8984a7e676">
+<span data-node-id="d82ed914-5c8e-11f1-a41d-3e8984a7e676">你的 MBTI 类型</span>
+<span class="section__toggle" data-node-id="d82f7068-5c8e-11f1-a41d-3e8984a7e676">▼</span>
+</h2>
+<div class="collapsible-content" id="mbti-content" data-node-id="d82f2ad6-5c8e-11f1-a41d-3e8984a7e676">
+<div class="card card--mbti" id="mbti-card" data-node-id="d82ed0fe-5c8e-11f1-a41d-3e8984a7e676">
+<div class="card__header" data-node-id="d82f5376-5c8e-11f1-a41d-3e8984a7e676">
+<span class="card__icon" data-node-id="d82eff8e-5c8e-11f1-a41d-3e8984a7e676">🧠</span>
+<h3 class="card__title" data-node-id="d82ef32c-5c8e-11f1-a41d-3e8984a7e676">荣格八维概率</h3>
+</div>
+<div class="card__body" id="mbti-body" data-node-id="d82f4e12-5c8e-11f1-a41d-3e8984a7e676"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- 日期切换 -->
+<section class="section section--result section--alt module-reveal" id="module-date" data-node-id="d82ed1a8-5c8e-11f1-a41d-3e8984a7e676">
+<div class="section__num" data-node-id="d82f0038-5c8e-11f1-a41d-3e8984a7e676">05</div>
+<div class="section__content" data-node-id="d82f142e-5c8e-11f1-a41d-3e8984a7e676">
+<div class="eyebrow" data-node-id="d82f25f4-5c8e-11f1-a41d-3e8984a7e676">日期选择</div>
+<h2 class="section__title" data-node-id="d82f14d8-5c8e-11f1-a41d-3e8984a7e676">选择查看每日宜忌对应日期</h2>
+<div class="date-switcher" id="date-switcher" data-node-id="d82ef3d6-5c8e-11f1-a41d-3e8984a7e676">
+<button class="date-btn" data-offset="-3" data-node-id="d82f5e52-5c8e-11f1-a41d-3e8984a7e676">大前天</button>
+<button class="date-btn" data-offset="-2" data-node-id="d82f00e2-5c8e-11f1-a41d-3e8984a7e676">前天</button>
+<button class="date-btn" data-offset="-1" data-node-id="d82f542a-5c8e-11f1-a41d-3e8984a7e676">昨天</button>
+<button class="date-btn active" data-offset="0" data-node-id="d82ef818-5c8e-11f1-a41d-3e8984a7e676">今天</button>
+<button class="date-btn" data-offset="1" data-node-id="d82f493a-5c8e-11f1-a41d-3e8984a7e676">明天</button>
+<button class="date-btn" data-offset="2" data-node-id="d82eee54-5c8e-11f1-a41d-3e8984a7e676">后天</button>
+<button class="date-btn" data-offset="3" data-node-id="d82f42dc-5c8e-11f1-a41d-3e8984a7e676">大后天</button>
+</div>
+<div class="date-display" id="date-display" data-node-id="d82f1c12-5c8e-11f1-a41d-3e8984a7e676"></div>
+</div>
+</section>
+<!-- AI推荐结果 -->
+<section class="section section--result module-reveal" id="module-recommend" data-node-id="d82eef12-5c8e-11f1-a41d-3e8984a7e676">
+<div class="section__num" data-node-id="d82f2fea-5c8e-11f1-a41d-3e8984a7e676">06</div>
+<div class="section__content" data-node-id="d82f309e-5c8e-11f1-a41d-3e8984a7e676">
+<div class="eyebrow" data-node-id="d82f63f2-5c8e-11f1-a41d-3e8984a7e676">AI 每日宜忌</div>
+<h2 class="section__title" data-node-id="d82f1cee-5c8e-11f1-a41d-3e8984a7e676">今日玄学指南</h2>
+<div class="card card--recommendation" id="recommendation-card" data-node-id="d82ed9be-5c8e-11f1-a41d-3e8984a7e676">
+<div class="card__header" data-node-id="d82ee4f4-5c8e-11f1-a41d-3e8984a7e676">
+<span class="card__icon" data-node-id="d82f43c2-5c8e-11f1-a41d-3e8984a7e676">✨</span>
+<h3 class="card__title" data-node-id="d82f269e-5c8e-11f1-a41d-3e8984a7e676">AI 融合推荐</h3>
+</div>
+<div class="card__body" id="recommendation-body" data-node-id="d82f1d8e-5c8e-11f1-a41d-3e8984a7e676">
+<div class="loading__mini" data-node-id="d82f6bae-5c8e-11f1-a41d-3e8984a7e676">正在生成推荐...</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 综合分析 -->
+<section class="section section--result section--alt module-reveal" id="module-analysis" data-node-id="d82f3148-5c8e-11f1-a41d-3e8984a7e676">
+<div class="section__num" data-node-id="d82f54d4-5c8e-11f1-a41d-3e8984a7e676">07</div>
+<div class="section__content" data-node-id="d82edacc-5c8e-11f1-a41d-3e8984a7e676">
+<div class="eyebrow" data-node-id="d82ed252-5c8e-11f1-a41d-3e8984a7e676">综合分析</div>
+<h2 class="section__title" data-node-id="d82f6c58-5c8e-11f1-a41d-3e8984a7e676">你的性格与人生指南</h2>
+<div class="card card--analysis" id="analysis-card" data-node-id="d82f1e2e-5c8e-11f1-a41d-3e8984a7e676">
+<div class="card__header" data-node-id="d82f273e-5c8e-11f1-a41d-3e8984a7e676">
+<span class="card__icon" data-node-id="d82edd92-5c8e-11f1-a41d-3e8984a7e676">🔮</span>
+<h3 class="card__title" data-node-id="d82ecbf4-5c8e-11f1-a41d-3e8984a7e676">综合解读</h3>
+</div>
+<div class="card__body" id="analysis-body" data-node-id="d82f6d02-5c8e-11f1-a41d-3e8984a7e676">
+<div class="loading__mini" data-node-id="d82f0894-5c8e-11f1-a41d-3e8984a7e676">正在生成综合分析...</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 邮件订阅 -->
+<section class="section section--subscribe" id="module-subscribe" data-node-id="d82f678a-5c8e-11f1-a41d-3e8984a7e676">
+<div class="section__content" data-node-id="d82f02e0-5c8e-11f1-a41d-3e8984a7e676">
+<div class="eyebrow" data-node-id="d82f27e8-5c8e-11f1-a41d-3e8984a7e676">每周宜忌订阅</div>
+<h2 class="section__title" data-node-id="d82f158c-5c8e-11f1-a41d-3e8984a7e676">订阅你的专属玄学周报</h2>
+<p class="subscribe-desc" data-node-id="d82f0948-5c8e-11f1-a41d-3e8984a7e676">输入出生日期与偏好时间，每周定时收到 AI 生成的七日宜忌，附一键直达专属页面链接</p>
+<form class="form subscribe-form" id="subscribe-form" data-node-id="d82f557e-5c8e-11f1-a41d-3e8984a7e676">
+  <div class="form__group" data-node-id="d82f0e0c-5c8e-11f1-a41d-3e8984a7e676">
+    <label class="form__label" for="sub-email" data-node-id="d82ede6e-5c8e-11f1-a41d-3e8984a7e676">邮箱地址</label>
+    <input class="form__input" type="email" id="sub-email" placeholder="your@email.com" required data-node-id="d82eefe4-5c8e-11f1-a41d-3e8984a7e676">
+  </div>
+  <div class="form__group" data-node-id="d82f49e4-5c8e-11f1-a41d-3e8984a7e676">
+    <label class="form__label" data-node-id="d82f4476-5c8e-11f1-a41d-3e8984a7e676">出生日期（公历）</label>
+    <div class="date-inputs" data-node-id="d82ee9a4-5c8e-11f1-a41d-3e8984a7e676">
+      <select class="form__input form__input--date" id="sub-year" required data-node-id="d82f2b62-5c8e-11f1-a41d-3e8984a7e676">
+        <option value="" data-node-id="d82ed2fc-5c8e-11f1-a41d-3e8984a7e676">yyyy</option>
+      </select>
+      <span class="date-separator" data-node-id="d82f1ed8-5c8e-11f1-a41d-3e8984a7e676">/</span>
+      <select class="form__input form__input--date" id="sub-month" required data-node-id="d82edf22-5c8e-11f1-a41d-3e8984a7e676">
+        <option value="" data-node-id="d82f2216-5c8e-11f1-a41d-3e8984a7e676">mm</option>
+      </select>
+      <span class="date-separator" data-node-id="d82ecca8-5c8e-11f1-a41d-3e8984a7e676">/</span>
+      <select class="form__input form__input--date" id="sub-day" required data-node-id="d82f2c02-5c8e-11f1-a41d-3e8984a7e676">
+        <option value="" data-node-id="d82ed3b0-5c8e-11f1-a41d-3e8984a7e676">dd</option>
+      </select>
+    </div>
+  </div>
+  <div class="form__group subscribe-time-row" data-node-id="d82f561e-5c8e-11f1-a41d-3e8984a7e676">
+    <div class="subscribe-time-col" data-node-id="d82f09f2-5c8e-11f1-a41d-3e8984a7e676">
+      <label class="form__label" for="sub-weekday" data-node-id="d82f64e2-5c8e-11f1-a41d-3e8984a7e676">发送星期</label>
+      <select class="form__input" id="sub-weekday" required data-node-id="d82f5b14-5c8e-11f1-a41d-3e8984a7e676">
+        <option value="" data-node-id="d82f682a-5c8e-11f1-a41d-3e8984a7e676">请选择</option>
+        <option value="1" data-node-id="d82f5bbe-5c8e-11f1-a41d-3e8984a7e676">周一</option>
+        <option value="2" data-node-id="d82f4a8e-5c8e-11f1-a41d-3e8984a7e676">周二</option>
+        <option value="3" data-node-id="d82f31f2-5c8e-11f1-a41d-3e8984a7e676">周三</option>
+        <option value="4" data-node-id="d82f22ca-5c8e-11f1-a41d-3e8984a7e676">周四</option>
+        <option value="5" data-node-id="d82f117c-5c8e-11f1-a41d-3e8984a7e676">周五</option>
+        <option value="6" data-node-id="d82f038a-5c8e-11f1-a41d-3e8984a7e676">周六</option>
+        <option value="0" data-node-id="d82ef8c2-5c8e-11f1-a41d-3e8984a7e676">周日</option>
+      </select>
+    </div>
+    <div class="subscribe-time-col" data-node-id="d82ef476-5c8e-11f1-a41d-3e8984a7e676">
+      <label class="form__label" for="sub-hour" data-node-id="d82ef08e-5c8e-11f1-a41d-3e8984a7e676">发送时间（北京时间）</label>
+      <select class="form__input" id="sub-hour" required data-node-id="d82f452a-5c8e-11f1-a41d-3e8984a7e676">
+        <option value="" data-node-id="d82f6dac-5c8e-11f1-a41d-3e8984a7e676">请选择</option>
+        <option value="7" data-node-id="d82f5efc-5c8e-11f1-a41d-3e8984a7e676">07:00</option>
+        <option value="8" data-node-id="d82f50ba-5c8e-11f1-a41d-3e8984a7e676">08:00</option>
+        <option value="9" data-node-id="d82f45de-5c8e-11f1-a41d-3e8984a7e676">09:00</option>
+        <option value="10" data-node-id="d82f2874-5c8e-11f1-a41d-3e8984a7e676">10:00</option>
+        <option value="12" data-node-id="d82f16ae-5c8e-11f1-a41d-3e8984a7e676">12:00</option>
+        <option value="18" data-node-id="d82f0aa6-5c8e-11f1-a41d-3e8984a7e676">18:00</option>
+        <option value="20" data-node-id="d82efc1e-5c8e-11f1-a41d-3e8984a7e676">20:00</option>
+        <option value="21" data-node-id="d82ef138-5c8e-11f1-a41d-3e8984a7e676">21:00</option>
+        <option value="22" data-node-id="d82edfd6-5c8e-11f1-a41d-3e8984a7e676">22:00</option>
+      </select>
+    </div>
+  </div>
+  <div class="subscribe-actions" data-node-id="d82f2374-5c8e-11f1-a41d-3e8984a7e676">
+    <button class="btn btn--primary" type="submit" id="subscribe-btn" data-node-id="d82f7112-5c8e-11f1-a41d-3e8984a7e676">
+      <span class="btn__icon" data-node-id="d82f572c-5c8e-11f1-a41d-3e8984a7e676">✉</span>
+      <span class="btn__text" data-node-id="d82f0eb6-5c8e-11f1-a41d-3e8984a7e676">立即订阅并发送测试邮件</span>
+    </button>
+  </div>
+  <div class="subscribe-status hidden" id="subscribe-status" data-node-id="d82ecd52-5c8e-11f1-a41d-3e8984a7e676"></div>
+</form>
+</div>
+</section>
+
+<!-- 免责声明 -->
+<section class="section section--disclaimer" data-node-id="d82f6e60-5c8e-11f1-a41d-3e8984a7e676">
+<div class="disclaimer" data-node-id="d82f0b5a-5c8e-11f1-a41d-3e8984a7e676">
+<div class="disclaimer__title" data-node-id="d82efcc8-5c8e-11f1-a41d-3e8984a7e676">✦ 关于玄学宜do</div>
+<div class="disclaimer__content" data-node-id="d82f5c68-5c8e-11f1-a41d-3e8984a7e676">
+<p data-node-id="d82f71bc-5c8e-11f1-a41d-3e8984a7e676">本站只收集您的出生年月日（精确到日），不收集出生时辰、姓名、出生地等敏感信息。原因有三：</p>
+<p data-node-id="d82f018c-5c8e-11f1-a41d-3e8984a7e676">第一，了解自己精确出生时辰的人并不多，很多人只记得年月日。</p>
+<p data-node-id="d82f4688-5c8e-11f1-a41d-3e8984a7e676">第二，我们重视您的隐私。本站只做娱乐用途，不收集、不存储、不分享任何个人敏感信息。</p>
+<p data-node-id="d82ece06-5c8e-11f1-a41d-3e8984a7e676">第三，我们不希望用太多确定性束缚任何人生不确定性的丰富发展方向。命理分析只是参考，人的发展始终掌握在自己手中。你的每一个选择、每一次努力，都在书写属于自己的独特人生。</p>
+<p data-node-id="d82f0434-5c8e-11f1-a41d-3e8984a7e676">如需更精准的命理分析，建议寻找专业占卜师进行面对面咨询。</p>
+<p class="disclaimer__warm" data-node-id="d82ef976-5c8e-11f1-a41d-3e8984a7e676">愿你在这段玄学之旅中，收获的不只是好奇与乐趣，更是对自己的温柔理解与勇敢前行。✦</p>
+</div>
+</div>
+</section>
+</div>
+</main>
+<!-- 加载弹窗 -->
+<div class="modal hidden" id="calc-modal" data-node-id="d82f5164-5c8e-11f1-a41d-3e8984a7e676">
+<div class="modal__content" data-node-id="d82ee080-5c8e-11f1-a41d-3e8984a7e676">
+<div class="modal__spinner" data-node-id="d82f658c-5c8e-11f1-a41d-3e8984a7e676"></div>
+<div class="modal__text" data-node-id="d82f32b0-5c8e-11f1-a41d-3e8984a7e676">正在测算中…</div>
+</div>
+</div>
+<!-- 打赏 & GitHub Star 区 -->
+<section class="section section--support" data-node-id="d82f4b38-5c8e-11f1-a41d-3e8984a7e676">
+<div class="support-grid" data-node-id="d82eea4e-5c8e-11f1-a41d-3e8984a7e676">
+  <div class="support-col support-col--reward" data-node-id="d82f6636-5c8e-11f1-a41d-3e8984a7e676">
+    <div class="support-col__title" data-node-id="d82f1758-5c8e-11f1-a41d-3e8984a7e676">☕ 请作者喝杯奶茶</div>
+    <div class="support-col__desc" data-node-id="d82f0c04-5c8e-11f1-a41d-3e8984a7e676">如果玄学宜do给你带来了快乐，欢迎打赏支持 ✦</div>
+    <img class="reward-qr" src="assets/reward-qr.jpg" alt="微信打赏二维码" loading="lazy" data-node-id="d82f1230-5c8e-11f1-a41d-3e8984a7e676">
+    <div class="support-col__hint" data-node-id="d82f0236-5c8e-11f1-a41d-3e8984a7e676">微信扫码打赏</div>
+  </div>
+  <div class="support-col support-col--github" data-node-id="d82f2c98-5c8e-11f1-a41d-3e8984a7e676">
+    <div class="support-col__title" data-node-id="d82ee5a8-5c8e-11f1-a41d-3e8984a7e676">⭐ GitHub Star</div>
+    <div class="support-col__desc" data-node-id="d82ed464-5c8e-11f1-a41d-3e8984a7e676">觉得有趣？给项目点个 Star，让更多人发现玄学宜do ✦</div>
+    <a class="github-star-btn" href="https://github.com/comiGIGI-lab/AI-xuanxue-todo" target="_blank" rel="noopener" data-node-id="d82ee652-5c8e-11f1-a41d-3e8984a7e676">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" data-node-id="d82f290a-5c8e-11f1-a41d-3e8984a7e676"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.335-1.755-1.335-1.755-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12z" data-node-id="d82f68de-5c8e-11f1-a41d-3e8984a7e676"/></svg>
+      Star on GitHub
+    </a>
+    <div class="support-col__hint" data-node-id="d82ed50e-5c8e-11f1-a41d-3e8984a7e676">comiGIGI-lab / AI-xuanxue-todo</div>
+  </div>
+</div>
+</section>
+
+<footer class="footer" data-node-id="d82eceec-5c8e-11f1-a41d-3e8984a7e676">
+<div class="footer__content" data-node-id="d82f12da-5c8e-11f1-a41d-3e8984a7e676">
+<span data-node-id="d82f240a-5c8e-11f1-a41d-3e8984a7e676">✦</span>
+<span data-node-id="d82f04de-5c8e-11f1-a41d-3e8984a7e676">玄学宜do · 仅供娱乐参考</span>
+</div>
+</footer>
+<script src="js/app.js" type="module" data-node-id="d82f1802-5c8e-11f1-a41d-3e8984a7e676"></script>
+<script data-node-id="d82f5d08-5c8e-11f1-a41d-3e8984a7e676">
+        // PWA Service Worker 注册 - 由 setup_pwa.py 自动生成
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./service-worker.js')
+                .then((reg) => {
+                    console.log('[PWA] Service Worker 已注册, scope:', reg.scope);
+                    return navigator.serviceWorker.ready;
+                })
+                .then(() => console.log('[PWA] Service Worker 已激活并接管页面'))
+                .catch((err) => console.warn('[PWA] Service Worker 注册失败:', err));
+        } else {
+            console.warn('[PWA] 当前环境不支持 Service Worker（需要 HTTPS 或 localhost）');
+        }
+    </script>
+</body>
+</html>

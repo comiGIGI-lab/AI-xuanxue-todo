@@ -1,0 +1,3343 @@
+{
+    "d82ec884-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<link href=\"css/styles.css\" rel=\"stylesheet\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 10,
+            "column": 0
+        },
+        "end": {
+            "line": 10,
+            "column": 46
+        }
+    },
+    "d82eca6e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<select class=\"form__input form__input--date\" id=\"birth-year\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 47,
+            "column": 0
+        },
+        "end": {
+            "line": 47,
+            "column": 71
+        }
+    },
+    "d82ecb40-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"loading hidden\" id=\"loading\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 69,
+            "column": 0
+        },
+        "end": {
+            "line": 69,
+            "column": 41
+        }
+    },
+    "d82ecbf4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h3 class=\"card__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 192,
+            "column": 0
+        },
+        "end": {
+            "line": 192,
+            "column": 24
+        }
+    },
+    "d82ecca8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"date-separator\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 221,
+            "column": 6
+        },
+        "end": {
+            "line": 221,
+            "column": 35
+        }
+    },
+    "d82ecd52-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"subscribe-status hidden\" id=\"subscribe-status\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 263,
+            "column": 2
+        },
+        "end": {
+            "line": 263,
+            "column": 61
+        }
+    },
+    "d82ece06-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<p>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 276,
+            "column": 0
+        },
+        "end": {
+            "line": 276,
+            "column": 3
+        }
+    },
+    "d82eceec-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<footer class=\"footer\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 312,
+            "column": 0
+        },
+        "end": {
+            "line": 312,
+            "column": 23
+        }
+    },
+    "d82ecf96-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"section__toggle\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 114,
+            "column": 0
+        },
+        "end": {
+            "line": 114,
+            "column": 30
+        }
+    },
+    "d82ed04a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 118,
+            "column": 0
+        },
+        "end": {
+            "line": 118,
+            "column": 26
+        }
+    },
+    "d82ed0fe-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card card--mbti\" id=\"mbti-card\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 138,
+            "column": 0
+        },
+        "end": {
+            "line": 138,
+            "column": 44
+        }
+    },
+    "d82ed1a8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--result section--alt module-reveal\" id=\"module-date\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 149,
+            "column": 0
+        },
+        "end": {
+            "line": 149,
+            "column": 85
+        }
+    },
+    "d82ed252-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eyebrow\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 187,
+            "column": 0
+        },
+        "end": {
+            "line": 187,
+            "column": 21
+        }
+    },
+    "d82ed2fc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 215,
+            "column": 8
+        },
+        "end": {
+            "line": 215,
+            "column": 25
+        }
+    },
+    "d82ed3b0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 223,
+            "column": 8
+        },
+        "end": {
+            "line": 223,
+            "column": 25
+        }
+    },
+    "d82ed464-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-col__desc\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 302,
+            "column": 4
+        },
+        "end": {
+            "line": 302,
+            "column": 35
+        }
+    },
+    "d82ed50e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-col__hint\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 307,
+            "column": 4
+        },
+        "end": {
+            "line": 307,
+            "column": 35
+        }
+    },
+    "d82ed5c2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"sun-reasoning__step\" id=\"reasoning-step-2\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 94,
+            "column": 0
+        },
+        "end": {
+            "line": 94,
+            "column": 55
+        }
+    },
+    "d82ed66c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<meta content=\"#B13BFF\" name=\"theme-color\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 12,
+            "column": 0
+        },
+        "end": {
+            "line": 12,
+            "column": 44
+        }
+    },
+    "d82ed716-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<script src=\"https://creo4u.com/bubble-popup.min.js\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 19,
+            "column": 0
+        },
+        "end": {
+            "line": 19,
+            "column": 53
+        }
+    },
+    "d82ed7c0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"header__brand\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 24,
+            "column": 0
+        },
+        "end": {
+            "line": 24,
+            "column": 27
+        }
+    },
+    "d82ed86a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--input\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 37,
+            "column": 0
+        },
+        "end": {
+            "line": 37,
+            "column": 40
+        }
+    },
+    "d82ed914-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 134,
+            "column": 0
+        },
+        "end": {
+            "line": 134,
+            "column": 6
+        }
+    },
+    "d82ed9be-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card card--recommendation\" id=\"recommendation-card\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 172,
+            "column": 0
+        },
+        "end": {
+            "line": 172,
+            "column": 64
+        }
+    },
+    "d82edacc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 186,
+            "column": 0
+        },
+        "end": {
+            "line": 186,
+            "column": 30
+        }
+    },
+    "d82edb8a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__num\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 38,
+            "column": 0
+        },
+        "end": {
+            "line": 38,
+            "column": 26
+        }
+    },
+    "d82edc34-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"btn__text\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 63,
+            "column": 0
+        },
+        "end": {
+            "line": 63,
+            "column": 24
+        }
+    },
+    "d82edce8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h2 class=\"section__title section__title--collapsible\" data-target=\"astrology-content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 86,
+            "column": 0
+        },
+        "end": {
+            "line": 86,
+            "column": 87
+        }
+    },
+    "d82edd92-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"card__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 191,
+            "column": 0
+        },
+        "end": {
+            "line": 191,
+            "column": 25
+        }
+    },
+    "d82ede6e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<label class=\"form__label\" for=\"sub-email\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 208,
+            "column": 4
+        },
+        "end": {
+            "line": 208,
+            "column": 47
+        }
+    },
+    "d82edf22-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<select class=\"form__input form__input--date\" id=\"sub-month\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 218,
+            "column": 6
+        },
+        "end": {
+            "line": 218,
+            "column": 76
+        }
+    },
+    "d82edfd6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"22\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 253,
+            "column": 8
+        },
+        "end": {
+            "line": 253,
+            "column": 27
+        }
+    },
+    "d82ee080-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"modal__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 286,
+            "column": 0
+        },
+        "end": {
+            "line": 286,
+            "column": 28
+        }
+    },
+    "d82ee18e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 39,
+            "column": 0
+        },
+        "end": {
+            "line": 39,
+            "column": 30
+        }
+    },
+    "d82ee24c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<select class=\"form__input form__input--date\" id=\"birth-day\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 55,
+            "column": 0
+        },
+        "end": {
+            "line": 55,
+            "column": 70
+        }
+    },
+    "d82ee2f6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card card--astrology\" id=\"astrology-card\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 97,
+            "column": 0
+        },
+        "end": {
+            "line": 97,
+            "column": 54
+        }
+    },
+    "d82ee3a0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 113,
+            "column": 0
+        },
+        "end": {
+            "line": 113,
+            "column": 6
+        }
+    },
+    "d82ee44a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__body\" id=\"bazi-body\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 123,
+            "column": 0
+        },
+        "end": {
+            "line": 123,
+            "column": 39
+        }
+    },
+    "d82ee4f4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 173,
+            "column": 0
+        },
+        "end": {
+            "line": 173,
+            "column": 26
+        }
+    },
+    "d82ee5a8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-col__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 301,
+            "column": 4
+        },
+        "end": {
+            "line": 301,
+            "column": 36
+        }
+    },
+    "d82ee652-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<a class=\"github-star-btn\" href=\"https://github.com/comiGIGI-lab/AI-xuanxue-todo\" target=\"_blank\" rel=\"noopener\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 303,
+            "column": 4
+        },
+        "end": {
+            "line": 303,
+            "column": 117
+        }
+    },
+    "d82ee6fc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<form class=\"form\" id=\"birth-form\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 43,
+            "column": 0
+        },
+        "end": {
+            "line": 43,
+            "column": 35
+        }
+    },
+    "d82ee7a6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"date-separator\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 54,
+            "column": 0
+        },
+        "end": {
+            "line": 54,
+            "column": 29
+        }
+    },
+    "d82ee85a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"loading__text\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 71,
+            "column": 0
+        },
+        "end": {
+            "line": 71,
+            "column": 27
+        }
+    },
+    "d82ee904-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 131,
+            "column": 0
+        },
+        "end": {
+            "line": 131,
+            "column": 30
+        }
+    },
+    "d82ee9a4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"date-inputs\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 213,
+            "column": 4
+        },
+        "end": {
+            "line": 213,
+            "column": 29
+        }
+    },
+    "d82eea4e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-grid\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 293,
+            "column": 0
+        },
+        "end": {
+            "line": 293,
+            "column": 26
+        }
+    },
+    "d82eeaf8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<link href=\"./manifest.webmanifest\" rel=\"manifest\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 11,
+            "column": 0
+        },
+        "end": {
+            "line": 11,
+            "column": 52
+        }
+    },
+    "d82eebac-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<meta content=\"yes\" name=\"apple-mobile-web-app-capable\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 13,
+            "column": 0
+        },
+        "end": {
+            "line": 13,
+            "column": 57
+        }
+    },
+    "d82eec56-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<meta content=\"black-translucent\" name=\"apple-mobile-web-app-status-bar-style\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 14,
+            "column": 0
+        },
+        "end": {
+            "line": 14,
+            "column": 80
+        }
+    },
+    "d82eed00-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<a class=\"header__github\" href=\"https://github.com/comiGIGI-lab/AI-xuanxue-todo\" target=\"_blank\" rel=\"noopener\" title=\"GitHub Star\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 27,
+            "column": 0
+        },
+        "end": {
+            "line": 27,
+            "column": 132
+        }
+    },
+    "d82eedaa-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"form__hint\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 59,
+            "column": 0
+        },
+        "end": {
+            "line": 59,
+            "column": 25
+        }
+    },
+    "d82eee54-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"date-btn\" data-offset=\"2\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 160,
+            "column": 0
+        },
+        "end": {
+            "line": 160,
+            "column": 41
+        }
+    },
+    "d82eef12-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--result module-reveal\" id=\"module-recommend\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 167,
+            "column": 0
+        },
+        "end": {
+            "line": 167,
+            "column": 77
+        }
+    },
+    "d82eefe4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<input class=\"form__input\" type=\"email\" id=\"sub-email\" placeholder=\"your@email.com\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 209,
+            "column": 4
+        },
+        "end": {
+            "line": 209,
+            "column": 97
+        }
+    },
+    "d82ef08e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<label class=\"form__label\" for=\"sub-hour\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 242,
+            "column": 6
+        },
+        "end": {
+            "line": 242,
+            "column": 48
+        }
+    },
+    "d82ef138-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"21\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 252,
+            "column": 8
+        },
+        "end": {
+            "line": 252,
+            "column": 27
+        }
+    },
+    "d82ef1e2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<header class=\"header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 23,
+            "column": 0
+        },
+        "end": {
+            "line": 23,
+            "column": 23
+        }
+    },
+    "d82ef282-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"header__guide\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 33,
+            "column": 0
+        },
+        "end": {
+            "line": 33,
+            "column": 27
+        }
+    },
+    "d82ef32c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h3 class=\"card__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 141,
+            "column": 0
+        },
+        "end": {
+            "line": 141,
+            "column": 24
+        }
+    },
+    "d82ef3d6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"date-switcher\" id=\"date-switcher\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 154,
+            "column": 0
+        },
+        "end": {
+            "line": 154,
+            "column": 46
+        }
+    },
+    "d82ef476-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"subscribe-time-col\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 241,
+            "column": 4
+        },
+        "end": {
+            "line": 241,
+            "column": 36
+        }
+    },
+    "d82ef552-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"stars\" id=\"stars\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 22,
+            "column": 0
+        },
+        "end": {
+            "line": 22,
+            "column": 30
+        }
+    },
+    "d82ef61a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"sun-reasoning__step\" id=\"reasoning-step-3\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 95,
+            "column": 0
+        },
+        "end": {
+            "line": 95,
+            "column": 55
+        }
+    },
+    "d82ef6ce-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 84,
+            "column": 0
+        },
+        "end": {
+            "line": 84,
+            "column": 30
+        }
+    },
+    "d82ef778-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__body\" id=\"astrology-body\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 102,
+            "column": 0
+        },
+        "end": {
+            "line": 102,
+            "column": 44
+        }
+    },
+    "d82ef818-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"date-btn active\" data-offset=\"0\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 158,
+            "column": 0
+        },
+        "end": {
+            "line": 158,
+            "column": 48
+        }
+    },
+    "d82ef8c2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"0\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 238,
+            "column": 8
+        },
+        "end": {
+            "line": 238,
+            "column": 26
+        }
+    },
+    "d82ef976-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<p class=\"disclaimer__warm\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 278,
+            "column": 0
+        },
+        "end": {
+            "line": 278,
+            "column": 28
+        }
+    },
+    "d82efa20-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<label class=\"form__label\" for=\"birth-year\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 45,
+            "column": 0
+        },
+        "end": {
+            "line": 45,
+            "column": 44
+        }
+    },
+    "d82efaca-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"results hidden\" id=\"results\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 80,
+            "column": 0
+        },
+        "end": {
+            "line": 80,
+            "column": 41
+        }
+    },
+    "d82efb74-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card card--bazi\" id=\"bazi-card\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 117,
+            "column": 0
+        },
+        "end": {
+            "line": 117,
+            "column": 44
+        }
+    },
+    "d82efc1e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"20\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 251,
+            "column": 8
+        },
+        "end": {
+            "line": 251,
+            "column": 27
+        }
+    },
+    "d82efcc8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"disclaimer__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 271,
+            "column": 0
+        },
+        "end": {
+            "line": 271,
+            "column": 31
+        }
+    },
+    "d82efd72-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 6,
+            "column": 0
+        },
+        "end": {
+            "line": 6,
+            "column": 71
+        }
+    },
+    "d82efe1c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"error__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 75,
+            "column": 0
+        },
+        "end": {
+            "line": 75,
+            "column": 25
+        }
+    },
+    "d82efed0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h3 class=\"card__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 100,
+            "column": 0
+        },
+        "end": {
+            "line": 100,
+            "column": 24
+        }
+    },
+    "d82eff8e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"card__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 140,
+            "column": 0
+        },
+        "end": {
+            "line": 140,
+            "column": 25
+        }
+    },
+    "d82f0038-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__num\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 150,
+            "column": 0
+        },
+        "end": {
+            "line": 150,
+            "column": 26
+        }
+    },
+    "d82f00e2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"date-btn\" data-offset=\"-2\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 156,
+            "column": 0
+        },
+        "end": {
+            "line": 156,
+            "column": 42
+        }
+    },
+    "d82f018c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<p>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 274,
+            "column": 0
+        },
+        "end": {
+            "line": 274,
+            "column": 3
+        }
+    },
+    "d82f0236-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-col__hint\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 298,
+            "column": 4
+        },
+        "end": {
+            "line": 298,
+            "column": 35
+        }
+    },
+    "d82f02e0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 202,
+            "column": 0
+        },
+        "end": {
+            "line": 202,
+            "column": 30
+        }
+    },
+    "d82f038a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"6\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 237,
+            "column": 8
+        },
+        "end": {
+            "line": 237,
+            "column": 26
+        }
+    },
+    "d82f0434-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<p>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 277,
+            "column": 0
+        },
+        "end": {
+            "line": 277,
+            "column": 3
+        }
+    },
+    "d82f04de-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 315,
+            "column": 0
+        },
+        "end": {
+            "line": 315,
+            "column": 6
+        }
+    },
+    "d82f059c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<body>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 21,
+            "column": 0
+        },
+        "end": {
+            "line": 21,
+            "column": 6
+        }
+    },
+    "d82f0650-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<meta content=\"玄学融合顾问\" name=\"apple-mobile-web-app-title\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 15,
+            "column": 0
+        },
+        "end": {
+            "line": 15,
+            "column": 70
+        }
+    },
+    "d82f06fa-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"header__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 26,
+            "column": 0
+        },
+        "end": {
+            "line": 26,
+            "column": 28
+        }
+    },
+    "d82f079a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 87,
+            "column": 0
+        },
+        "end": {
+            "line": 87,
+            "column": 6
+        }
+    },
+    "d82f0894-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"loading__mini\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 195,
+            "column": 0
+        },
+        "end": {
+            "line": 195,
+            "column": 27
+        }
+    },
+    "d82f0948-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<p class=\"subscribe-desc\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 205,
+            "column": 0
+        },
+        "end": {
+            "line": 205,
+            "column": 26
+        }
+    },
+    "d82f09f2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"subscribe-time-col\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 228,
+            "column": 4
+        },
+        "end": {
+            "line": 228,
+            "column": 36
+        }
+    },
+    "d82f0aa6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"18\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 250,
+            "column": 8
+        },
+        "end": {
+            "line": 250,
+            "column": 27
+        }
+    },
+    "d82f0b5a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"disclaimer\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 270,
+            "column": 0
+        },
+        "end": {
+            "line": 270,
+            "column": 24
+        }
+    },
+    "d82f0c04-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-col__desc\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 296,
+            "column": 4
+        },
+        "end": {
+            "line": 296,
+            "column": 35
+        }
+    },
+    "d82f0cae-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"card__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 99,
+            "column": 0
+        },
+        "end": {
+            "line": 99,
+            "column": 25
+        }
+    },
+    "d82f0d62-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 110,
+            "column": 0
+        },
+        "end": {
+            "line": 110,
+            "column": 30
+        }
+    },
+    "d82f0e0c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"form__group\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 207,
+            "column": 2
+        },
+        "end": {
+            "line": 207,
+            "column": 27
+        }
+    },
+    "d82f0eb6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"btn__text\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 260,
+            "column": 6
+        },
+        "end": {
+            "line": 260,
+            "column": 30
+        }
+    },
+    "d82f0f6a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__num\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 83,
+            "column": 0
+        },
+        "end": {
+            "line": 83,
+            "column": 26
+        }
+    },
+    "d82f101e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 56,
+            "column": 0
+        },
+        "end": {
+            "line": 56,
+            "column": 17
+        }
+    },
+    "d82f10d2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"btn btn--primary btn--large\" id=\"submit-btn\" type=\"submit\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 61,
+            "column": 0
+        },
+        "end": {
+            "line": 61,
+            "column": 74
+        }
+    },
+    "d82f117c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"5\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 236,
+            "column": 8
+        },
+        "end": {
+            "line": 236,
+            "column": 26
+        }
+    },
+    "d82f1230-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<img class=\"reward-qr\" src=\"assets/reward-qr.jpg\" alt=\"微信打赏二维码\" loading=\"lazy\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 297,
+            "column": 4
+        },
+        "end": {
+            "line": 297,
+            "column": 97
+        }
+    },
+    "d82f12da-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"footer__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 313,
+            "column": 0
+        },
+        "end": {
+            "line": 313,
+            "column": 29
+        }
+    },
+    "d82f138e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"text-[11px] text-[#D1D5DB] bg-[transparent] card__badge\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 121,
+            "column": 0
+        },
+        "end": {
+            "line": 121,
+            "column": 70
+        }
+    },
+    "d82f142e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 151,
+            "column": 0
+        },
+        "end": {
+            "line": 151,
+            "column": 30
+        }
+    },
+    "d82f14d8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h2 class=\"section__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 153,
+            "column": 0
+        },
+        "end": {
+            "line": 153,
+            "column": 27
+        }
+    },
+    "d82f158c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h2 class=\"section__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 204,
+            "column": 0
+        },
+        "end": {
+            "line": 204,
+            "column": 27
+        }
+    },
+    "d82f16ae-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"12\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 249,
+            "column": 8
+        },
+        "end": {
+            "line": 249,
+            "column": 27
+        }
+    },
+    "d82f1758-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-col__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 295,
+            "column": 4
+        },
+        "end": {
+            "line": 295,
+            "column": 36
+        }
+    },
+    "d82f1802-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<script src=\"js/app.js\" type=\"module\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 318,
+            "column": 0
+        },
+        "end": {
+            "line": 318,
+            "column": 38
+        }
+    },
+    "d82f18ac-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<link href=\"https://fonts.loli.net/css2?family=Noto+Serif+SC:wght@500;700&amp;family=Inter:wght@400;500;600;700&amp;display=swap\" rel=\"stylesheet\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 9,
+            "column": 0
+        },
+        "end": {
+            "line": 9,
+            "column": 148
+        }
+    },
+    "d82f1956-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<link href=\"./icons/icon-192x192.png\" rel=\"apple-touch-icon\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 16,
+            "column": 0
+        },
+        "end": {
+            "line": 16,
+            "column": 62
+        }
+    },
+    "d82f1a00-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 28,
+            "column": 2
+        },
+        "end": {
+            "line": 28,
+            "column": 124
+        }
+    },
+    "d82f1abe-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h2 class=\"section__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 41,
+            "column": 0
+        },
+        "end": {
+            "line": 41,
+            "column": 27
+        }
+    },
+    "d82f1b68-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"error__message\" id=\"error-message\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 76,
+            "column": 0
+        },
+        "end": {
+            "line": 76,
+            "column": 47
+        }
+    },
+    "d82f1c12-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"date-display\" id=\"date-display\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 163,
+            "column": 0
+        },
+        "end": {
+            "line": 163,
+            "column": 44
+        }
+    },
+    "d82f1cee-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h2 class=\"section__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 171,
+            "column": 0
+        },
+        "end": {
+            "line": 171,
+            "column": 27
+        }
+    },
+    "d82f1d8e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__body\" id=\"recommendation-body\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 177,
+            "column": 0
+        },
+        "end": {
+            "line": 177,
+            "column": 49
+        }
+    },
+    "d82f1e2e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card card--analysis\" id=\"analysis-card\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 189,
+            "column": 0
+        },
+        "end": {
+            "line": 189,
+            "column": 52
+        }
+    },
+    "d82f1ed8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"date-separator\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 217,
+            "column": 6
+        },
+        "end": {
+            "line": 217,
+            "column": 35
+        }
+    },
+    "d82f1f78-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"header__tagline\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 32,
+            "column": 0
+        },
+        "end": {
+            "line": 32,
+            "column": 29
+        }
+    },
+    "d82f2022-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"section__toggle\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 88,
+            "column": 0
+        },
+        "end": {
+            "line": 88,
+            "column": 30
+        }
+    },
+    "d82f20cc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"sun-reasoning hidden\" id=\"sun-reasoning\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 92,
+            "column": 0
+        },
+        "end": {
+            "line": 92,
+            "column": 53
+        }
+    },
+    "d82f2176-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h2 class=\"section__title section__title--collapsible\" data-target=\"mbti-content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 133,
+            "column": 0
+        },
+        "end": {
+            "line": 133,
+            "column": 82
+        }
+    },
+    "d82f2216-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 219,
+            "column": 8
+        },
+        "end": {
+            "line": 219,
+            "column": 25
+        }
+    },
+    "d82f22ca-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"4\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 235,
+            "column": 8
+        },
+        "end": {
+            "line": 235,
+            "column": 26
+        }
+    },
+    "d82f2374-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"subscribe-actions\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 257,
+            "column": 2
+        },
+        "end": {
+            "line": 257,
+            "column": 33
+        }
+    },
+    "d82f240a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 314,
+            "column": 0
+        },
+        "end": {
+            "line": 314,
+            "column": 6
+        }
+    },
+    "d82f24b4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h3 class=\"card__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 120,
+            "column": 0
+        },
+        "end": {
+            "line": 120,
+            "column": 24
+        }
+    },
+    "d82f2554-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__num\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 130,
+            "column": 0
+        },
+        "end": {
+            "line": 130,
+            "column": 26
+        }
+    },
+    "d82f25f4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eyebrow\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 152,
+            "column": 0
+        },
+        "end": {
+            "line": 152,
+            "column": 21
+        }
+    },
+    "d82f269e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h3 class=\"card__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 175,
+            "column": 0
+        },
+        "end": {
+            "line": 175,
+            "column": 24
+        }
+    },
+    "d82f273e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 190,
+            "column": 0
+        },
+        "end": {
+            "line": 190,
+            "column": 26
+        }
+    },
+    "d82f27e8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eyebrow\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 203,
+            "column": 0
+        },
+        "end": {
+            "line": 203,
+            "column": 21
+        }
+    },
+    "d82f2874-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"10\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 248,
+            "column": 8
+        },
+        "end": {
+            "line": 248,
+            "column": 27
+        }
+    },
+    "d82f290a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"currentColor\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 304,
+            "column": 6
+        },
+        "end": {
+            "line": 304,
+            "column": 109
+        }
+    },
+    "d82f29aa-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"btn btn--ghost\" id=\"retry-btn\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 77,
+            "column": 0
+        },
+        "end": {
+            "line": 77,
+            "column": 46
+        }
+    },
+    "d82f2a40-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h2 class=\"section__title section__title--collapsible\" data-target=\"bazi-content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 112,
+            "column": 0
+        },
+        "end": {
+            "line": 112,
+            "column": 82
+        }
+    },
+    "d82f2ad6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-content\" id=\"mbti-content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 137,
+            "column": 0
+        },
+        "end": {
+            "line": 137,
+            "column": 51
+        }
+    },
+    "d82f2b62-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<select class=\"form__input form__input--date\" id=\"sub-year\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 214,
+            "column": 6
+        },
+        "end": {
+            "line": 214,
+            "column": 75
+        }
+    },
+    "d82f2c02-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<select class=\"form__input form__input--date\" id=\"sub-day\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 222,
+            "column": 6
+        },
+        "end": {
+            "line": 222,
+            "column": 74
+        }
+    },
+    "d82f2c98-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-col support-col--github\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 300,
+            "column": 2
+        },
+        "end": {
+            "line": 300,
+            "column": 47
+        }
+    },
+    "d82f2d9c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"loading__spinner\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 70,
+            "column": 0
+        },
+        "end": {
+            "line": 70,
+            "column": 30
+        }
+    },
+    "d82f2e50-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__num\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 109,
+            "column": 0
+        },
+        "end": {
+            "line": 109,
+            "column": 26
+        }
+    },
+    "d82f2f04-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<main class=\"main\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 35,
+            "column": 0
+        },
+        "end": {
+            "line": 35,
+            "column": 19
+        }
+    },
+    "d82f2fea-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__num\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 168,
+            "column": 0
+        },
+        "end": {
+            "line": 168,
+            "column": 26
+        }
+    },
+    "d82f309e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 169,
+            "column": 0
+        },
+        "end": {
+            "line": 169,
+            "column": 30
+        }
+    },
+    "d82f3148-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--result section--alt module-reveal\" id=\"module-analysis\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 184,
+            "column": 0
+        },
+        "end": {
+            "line": 184,
+            "column": 89
+        }
+    },
+    "d82f31f2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"3\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 234,
+            "column": 8
+        },
+        "end": {
+            "line": 234,
+            "column": 26
+        }
+    },
+    "d82f32b0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"modal__text\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 288,
+            "column": 0
+        },
+        "end": {
+            "line": 288,
+            "column": 25
+        }
+    },
+    "d82f4084-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"form__group\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 44,
+            "column": 0
+        },
+        "end": {
+            "line": 44,
+            "column": 25
+        }
+    },
+    "d82f416a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"btn__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 62,
+            "column": 0
+        },
+        "end": {
+            "line": 62,
+            "column": 24
+        }
+    },
+    "d82f4228-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"card__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 119,
+            "column": 0
+        },
+        "end": {
+            "line": 119,
+            "column": 25
+        }
+    },
+    "d82f42dc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"date-btn\" data-offset=\"3\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 161,
+            "column": 0
+        },
+        "end": {
+            "line": 161,
+            "column": 41
+        }
+    },
+    "d82f43c2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"card__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 174,
+            "column": 0
+        },
+        "end": {
+            "line": 174,
+            "column": 25
+        }
+    },
+    "d82f4476-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<label class=\"form__label\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 212,
+            "column": 4
+        },
+        "end": {
+            "line": 212,
+            "column": 31
+        }
+    },
+    "d82f452a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<select class=\"form__input\" id=\"sub-hour\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 243,
+            "column": 6
+        },
+        "end": {
+            "line": 243,
+            "column": 57
+        }
+    },
+    "d82f45de-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"9\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 247,
+            "column": 8
+        },
+        "end": {
+            "line": 247,
+            "column": 26
+        }
+    },
+    "d82f4688-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<p>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 275,
+            "column": 0
+        },
+        "end": {
+            "line": 275,
+            "column": 3
+        }
+    },
+    "d82f4732-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-content\" id=\"astrology-content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 90,
+            "column": 0
+        },
+        "end": {
+            "line": 90,
+            "column": 56
+        }
+    },
+    "d82f47e6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<p class=\"text-[13px] input-hint\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 42,
+            "column": 0
+        },
+        "end": {
+            "line": 42,
+            "column": 34
+        }
+    },
+    "d82f4890-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--result module-reveal collapsible-section\" id=\"module-mbti\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 129,
+            "column": 0
+        },
+        "end": {
+            "line": 129,
+            "column": 92
+        }
+    },
+    "d82f493a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"date-btn\" data-offset=\"1\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 159,
+            "column": 0
+        },
+        "end": {
+            "line": 159,
+            "column": 41
+        }
+    },
+    "d82f49e4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"form__group\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 211,
+            "column": 2
+        },
+        "end": {
+            "line": 211,
+            "column": 27
+        }
+    },
+    "d82f4a8e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"2\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 233,
+            "column": 8
+        },
+        "end": {
+            "line": 233,
+            "column": 26
+        }
+    },
+    "d82f4b38-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--support\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 292,
+            "column": 0
+        },
+        "end": {
+            "line": 292,
+            "column": 42
+        }
+    },
+    "d82f4bec-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<link crossorigin=\"\" href=\"https://fonts.loli.net\" rel=\"preconnect\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 8,
+            "column": 0
+        },
+        "end": {
+            "line": 8,
+            "column": 69
+        }
+    },
+    "d82f4c96-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"header__logo\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 25,
+            "column": 0
+        },
+        "end": {
+            "line": 25,
+            "column": 27
+        }
+    },
+    "d82f4d5e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"date-separator\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 50,
+            "column": 0
+        },
+        "end": {
+            "line": 50,
+            "column": 29
+        }
+    },
+    "d82f4e12-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__body\" id=\"mbti-body\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 143,
+            "column": 0
+        },
+        "end": {
+            "line": 143,
+            "column": 39
+        }
+    },
+    "d82f50ba-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"8\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 246,
+            "column": 8
+        },
+        "end": {
+            "line": 246,
+            "column": 26
+        }
+    },
+    "d82f5164-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"modal hidden\" id=\"calc-modal\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 285,
+            "column": 0
+        },
+        "end": {
+            "line": 285,
+            "column": 42
+        }
+    },
+    "d82f5222-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<title>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 7,
+            "column": 0
+        },
+        "end": {
+            "line": 7,
+            "column": 7
+        }
+    },
+    "d82f52cc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 48,
+            "column": 0
+        },
+        "end": {
+            "line": 48,
+            "column": 17
+        }
+    },
+    "d82f5376-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 139,
+            "column": 0
+        },
+        "end": {
+            "line": 139,
+            "column": 26
+        }
+    },
+    "d82f542a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"date-btn\" data-offset=\"-1\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 157,
+            "column": 0
+        },
+        "end": {
+            "line": 157,
+            "column": 42
+        }
+    },
+    "d82f54d4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"section__num\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 185,
+            "column": 0
+        },
+        "end": {
+            "line": 185,
+            "column": 26
+        }
+    },
+    "d82f557e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<form class=\"form subscribe-form\" id=\"subscribe-form\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 206,
+            "column": 0
+        },
+        "end": {
+            "line": 206,
+            "column": 54
+        }
+    },
+    "d82f561e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"form__group subscribe-time-row\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 227,
+            "column": 2
+        },
+        "end": {
+            "line": 227,
+            "column": 46
+        }
+    },
+    "d82f572c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"btn__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 259,
+            "column": 6
+        },
+        "end": {
+            "line": 259,
+            "column": 30
+        }
+    },
+    "d82f57d6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<meta charset=\"utf-8\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 5,
+            "column": 0
+        },
+        "end": {
+            "line": 5,
+            "column": 23
+        }
+    },
+    "d82f5880-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--result module-reveal collapsible-section\" id=\"module-astrology\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 82,
+            "column": 0
+        },
+        "end": {
+            "line": 82,
+            "column": 97
+        }
+    },
+    "d82f5920-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eyebrow\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 85,
+            "column": 0
+        },
+        "end": {
+            "line": 85,
+            "column": 21
+        }
+    },
+    "d82f59ca-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"sun-reasoning__step\" id=\"reasoning-step-1\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 93,
+            "column": 0
+        },
+        "end": {
+            "line": 93,
+            "column": 55
+        }
+    },
+    "d82f5a74-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eyebrow\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 132,
+            "column": 0
+        },
+        "end": {
+            "line": 132,
+            "column": 21
+        }
+    },
+    "d82f5b14-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<select class=\"form__input\" id=\"sub-weekday\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 230,
+            "column": 6
+        },
+        "end": {
+            "line": 230,
+            "column": 60
+        }
+    },
+    "d82f5bbe-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"1\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 232,
+            "column": 8
+        },
+        "end": {
+            "line": 232,
+            "column": 26
+        }
+    },
+    "d82f5c68-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"disclaimer__content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 272,
+            "column": 0
+        },
+        "end": {
+            "line": 272,
+            "column": 33
+        }
+    },
+    "d82f5d08-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<script>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 319,
+            "column": 0
+        },
+        "end": {
+            "line": 319,
+            "column": 8
+        }
+    },
+    "d82f5da8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-content\" id=\"bazi-content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 116,
+            "column": 0
+        },
+        "end": {
+            "line": 116,
+            "column": 51
+        }
+    },
+    "d82f5e52-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"date-btn\" data-offset=\"-3\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 155,
+            "column": 0
+        },
+        "end": {
+            "line": 155,
+            "column": 42
+        }
+    },
+    "d82f5efc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"7\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 245,
+            "column": 8
+        },
+        "end": {
+            "line": 245,
+            "column": 26
+        }
+    },
+    "d82f5fa6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 98,
+            "column": 0
+        },
+        "end": {
+            "line": 98,
+            "column": 26
+        }
+    },
+    "d82f6046-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<head>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 4,
+            "column": 0
+        },
+        "end": {
+            "line": 4,
+            "column": 6
+        }
+    },
+    "d82f610e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<path d=\"M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.335-1.755-1.335-1.755-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12z\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 28,
+            "column": 124
+        },
+        "end": {
+            "line": 28,
+            "column": 834
+        }
+    },
+    "d82f61cc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<select class=\"form__input form__input--date\" id=\"birth-month\" required>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 51,
+            "column": 0
+        },
+        "end": {
+            "line": 51,
+            "column": 72
+        }
+    },
+    "d82f6280-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 52,
+            "column": 0
+        },
+        "end": {
+            "line": 52,
+            "column": 17
+        }
+    },
+    "d82f6334-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eyebrow\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 111,
+            "column": 0
+        },
+        "end": {
+            "line": 111,
+            "column": 21
+        }
+    },
+    "d82f63f2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eyebrow\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 170,
+            "column": 0
+        },
+        "end": {
+            "line": 170,
+            "column": 21
+        }
+    },
+    "d82f64e2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<label class=\"form__label\" for=\"sub-weekday\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 229,
+            "column": 6
+        },
+        "end": {
+            "line": 229,
+            "column": 51
+        }
+    },
+    "d82f658c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"modal__spinner\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 287,
+            "column": 0
+        },
+        "end": {
+            "line": 287,
+            "column": 28
+        }
+    },
+    "d82f6636-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"support-col support-col--reward\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 294,
+            "column": 2
+        },
+        "end": {
+            "line": 294,
+            "column": 47
+        }
+    },
+    "d82f66e0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"date-inputs\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 46,
+            "column": 0
+        },
+        "end": {
+            "line": 46,
+            "column": 25
+        }
+    },
+    "d82f678a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--subscribe\" id=\"module-subscribe\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 201,
+            "column": 0
+        },
+        "end": {
+            "line": 201,
+            "column": 66
+        }
+    },
+    "d82f682a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 231,
+            "column": 8
+        },
+        "end": {
+            "line": 231,
+            "column": 25
+        }
+    },
+    "d82f68de-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<path d=\"M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.385-1.335-1.755-1.335-1.755-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.295 24 12c0-6.63-5.37-12-12-12z\"/>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "self_closing_tag",
+        "start": {
+            "line": 304,
+            "column": 109
+        },
+        "end": {
+            "line": 304,
+            "column": 819
+        }
+    },
+    "d82f6988-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"error hidden\" id=\"error\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 74,
+            "column": 0
+        },
+        "end": {
+            "line": 74,
+            "column": 37
+        }
+    },
+    "d82f6a32-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<html lang=\"zh-CN\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 3,
+            "column": 0
+        },
+        "end": {
+            "line": 3,
+            "column": 19
+        }
+    },
+    "d82f6b04-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"header__subtitle\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 31,
+            "column": 0
+        },
+        "end": {
+            "line": 31,
+            "column": 30
+        }
+    },
+    "d82f6bae-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"loading__mini\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 178,
+            "column": 0
+        },
+        "end": {
+            "line": 178,
+            "column": 27
+        }
+    },
+    "d82f6c58-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<h2 class=\"section__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 188,
+            "column": 0
+        },
+        "end": {
+            "line": 188,
+            "column": 27
+        }
+    },
+    "d82f6d02-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"card__body\" id=\"analysis-body\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 194,
+            "column": 0
+        },
+        "end": {
+            "line": 194,
+            "column": 43
+        }
+    },
+    "d82f6dac-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<option value=\"\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 244,
+            "column": 8
+        },
+        "end": {
+            "line": 244,
+            "column": 25
+        }
+    },
+    "d82f6e60-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--disclaimer\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 269,
+            "column": 0
+        },
+        "end": {
+            "line": 269,
+            "column": 45
+        }
+    },
+    "d82f6f0a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eyebrow\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 40,
+            "column": 0
+        },
+        "end": {
+            "line": 40,
+            "column": 21
+        }
+    },
+    "d82f6fbe-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<section class=\"section section--result section--alt module-reveal collapsible-section\" id=\"module-bazi\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 108,
+            "column": 0
+        },
+        "end": {
+            "line": 108,
+            "column": 105
+        }
+    },
+    "d82f7068-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"section__toggle\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 135,
+            "column": 0
+        },
+        "end": {
+            "line": 135,
+            "column": 30
+        }
+    },
+    "d82f7112-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"btn btn--primary\" type=\"submit\" id=\"subscribe-btn\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 258,
+            "column": 4
+        },
+        "end": {
+            "line": 258,
+            "column": 70
+        }
+    },
+    "d82f71bc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<p>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/index.html",
+        "type": "start_tag",
+        "start": {
+            "line": 273,
+            "column": 0
+        },
+        "end": {
+            "line": 273,
+            "column": 3
+        }
+    },
+    "d83162c4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"mbti-confirmed\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831645e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"mbti-confirmed__type\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83167ce-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"date-display__date\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83168b4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"date-display__pillars\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8316c1a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"recommendation-empty\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8316cec-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"btn btn--ghost btn--small\" id=\"reload-recommend-btn\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8316daa-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"recommendation-empty__text\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8316fd0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"analysis-content\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831757a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-item\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831766a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"collapsible-item__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8317728-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-item__content hidden\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83177fa-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-item__header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83178ae-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"collapsible-item__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83179ee-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"collapsible-item__toggle\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8318146-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"planet-item__main\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831822c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"planet-item__value\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83182f4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"planet-item__name\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83183bc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"planet-item\" data-planet=\"__PH0__\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831847a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"planet-item__header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8318538-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"planet-item__toggle\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83185f6-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"planet-item__detail hidden\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83186b4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"planet-item__meaning\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8318a6a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"recommendation-empty\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8318b46-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"recommendation-empty__text\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8318c04-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"btn btn--ghost btn--small\" id=\"reload-recommend-btn\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83195be-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-display\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83196b8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar__value\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8319776-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8319834-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83198fc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar__value\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d83199ba-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar__label\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8319a64-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8319b18-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar__label\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8319bcc-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar__value\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8319c80-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"bazi-pillar__label\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d8319d3e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div style=\"text-align: center; margin-top: 1rem; color: var(--color-muted); font-size: 0.875rem;\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831a388-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eight-func-bar__label\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831a478-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eight-func-bar__fill\" data-target=\"__PH1__\" style=\"width: 0%\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831a540-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eight-func-bar__track\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831a5f4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eight-func-bar\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831a6a8-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"eight-func-bar__pct\" data-target=\"__PH2__\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831a9f0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"top-mbti-type\" data-type=\"__PH0__\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831aac2-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"top-mbti-type__name\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831ab76-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"top-mbti-type__conf\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831af4a-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div style=\"color: var(--color-warning); text-align: center; padding: 1rem;\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831b01c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span style=\"font-size: 0.875rem; color: var(--color-muted);\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831b0e4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<br>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831b328-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div style=\"color: var(--color-muted); text-align: center; padding: 1rem;\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831b95e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"collapsible-item__toggle\" style=\"transform: __PH2__\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831ba44-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-item__header\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831bb0c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-item__content__PH3__\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831bbd4-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"collapsible-item\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831bc92-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"collapsible-item__icon\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831bd46-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span class=\"collapsible-item__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831c372-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"mbti-actions\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831c44e-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"mbti-section__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831c50c-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"mbti-section\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831c5ca-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<button class=\"btn btn--ghost btn--small\" id=\"mbti-unknown-btn\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831c688-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div id=\"mbti-confirmed\" class=\"hidden\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831c746-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"mbti-section\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831c872-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div class=\"mbti-section__title\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831cac0-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div style=\"color: var(--color-muted); text-align: center; padding: 1rem;\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831ce26-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<div style=\"color: var(--color-warning); text-align: center; padding: 1rem;\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831ceee-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<br>",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    },
+    "d831d006-5c8e-11f1-a41d-3e8984a7e676": {
+        "code": "<span style=\"font-size: 0.875rem; color: var(--color-muted);\">",
+        "file": "/autoagent/workspace/2026/05/29/202605292104-eg9drdty/workspace/project/frontend/js/app.js",
+        "type": "start_tag",
+        "start_line": null,
+        "end_line": null
+    }
+}
