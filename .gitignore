@@ -2,6 +2,7 @@
 .env
 .env.*
 !.env.example
+project/frontend/js/config.js
 
 # Supabase 本地开发
 supabase/.branches

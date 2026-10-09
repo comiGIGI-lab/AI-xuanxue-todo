@@ -241,7 +241,7 @@ function buildWeeklyPage(sub: Record<string, unknown>, content: string, unsubscr
   <div class="footer">
     <p>由 <strong>Rowangie</strong> 用爱发电 · 玄学宜do</p>
     <p>如不想继续接收，<a href="${unsubscribeUrl}">点击退订</a></p>
-    <a class="back-btn" href="https://supabase-api-202605292104-eg9drdty.creo4u.com">返回玄学宜do</a>
+    <a class="back-btn" href="https://xuanxue.rowangie.top">返回玄学宜do</a>
   </div>
 </div>
 </body>

@@ -96,7 +96,7 @@ function buildHtml(title: string, message: string, success: boolean) {
   <div class="icon">${icon}</div>
   <h1>${title}</h1>
   <p>${message}</p>
-  <a href="https://supabase-api-202605292104-eg9drdty.creo4u.com">返回玄学宜do</a>
+  <a href="https://xuanxue.rowangie.top">返回玄学宜do</a>
 </div>
 </body>
 </html>`
